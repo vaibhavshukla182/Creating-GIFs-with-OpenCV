@@ -23,9 +23,7 @@ Make a new folder 'meme',in it do:
       
     python create_gif.py --config config.json --image images/me.jpg --output me.gif
     
-    
-![me.gif](https://github.com/vaibhavshukla182/Creating-GIFs-with-OpenCV/blob/master/me.gif)
-
+  
 Building a Deal With It meme generator using OpenCV can teach us a number of valuable techniques used in practice, including:
 
 1)How to perform deep learning-based face detection.
