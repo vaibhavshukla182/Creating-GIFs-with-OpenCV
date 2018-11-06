@@ -24,7 +24,7 @@ Make a new folder 'meme',in it do:
     python create_gif.py --config config.json --image images/me.jpg --output me.gif
     
     
-![alt text]()
+![me.gif](https://github.com/vaibhavshukla182/Creating-GIFs-with-OpenCV/blob/master/me.gif)
 
 Building a Deal With It meme generator using OpenCV can teach us a number of valuable techniques used in practice, including:
 
@@ -38,9 +38,8 @@ Building a Deal With It meme generator using OpenCV can teach us a number of val
 
 
 In order to build our meme generator, we leveraged computer vision and deep learning in a number of practical ways, including:
-
-Face detection
-Facial landmark prediction
-Extracting regions of the face (in this case, the eyes)
-Computing the angle between the eyes, a requirement for face alignment
-Generating transparent overlays via alpha blending
+- Face detection
+- Facial landmark prediction
+- Extracting regions of the face (in this case, the eyes)
+- Computing the angle between the eyes, a requirement for face alignment
+- Generating transparent overlays via alpha blending
